@@ -1,1 +1,2 @@
 Hello, this is my first file handling program.
+This is new content added to the file.
